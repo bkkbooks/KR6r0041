@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6r0041/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0041/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐護法沙門法琳別傳
+  identifiers:
+    krp: KR6r0041
+    cbeta: T50n2051
+    cbeta_old_id: T50n2051
+    authorityid: CA0000934
+    json_key: T2051
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2051.xml
+    old_id: T50n2051
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0041_000-T.yaml, hash: 'sha256:a9b98cd7090dc7661ee144270c51c2e8e0a018ce75bfdabf5370d5b338bc625f'}
+  - {seq: 1, filename: KR6r0041_001-T.yaml, hash: 'sha256:cf40a20d450ac0d6076fd277e66523db1259801daa5750a681cd9f2568fa470c'}
+  - {seq: 2, filename: KR6r0041_002-T.yaml, hash: 'sha256:ef000634adbbf463ea829aa19d56a631104fd668c0d3ea083ce1fbf0650614c5'}
+  - {seq: 3, filename: KR6r0041_003-T.yaml, hash: 'sha256:21597268a818a19ca144318ba1189dc5790c49c75ca893a0b4421598bcc67576'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0041_000-T.markers.yaml, hash: 'sha256:b3461448467fb0aa3c8e4cf67145cb3214636a5f87b88b2e6d4c94e6f0cce21d'}
+  - {seq: 1, role: markers, filename: assets/KR6r0041_001-T.markers.yaml, hash: 'sha256:742b08040cdeed6f4791268e7375425fb65030039bb5b824f3607e9a603eb564'}
+  - {seq: 2, role: markers, filename: assets/KR6r0041_002-T.markers.yaml, hash: 'sha256:fd6311e5a0a5a1975bc39f4fbe7a337a455ba5b9483988c4f1c50c0afe92da82'}
+  - {seq: 3, role: markers, filename: assets/KR6r0041_003-T.markers.yaml, hash: 'sha256:f1876fabffea4566944f5be2c5a08a82b2e909c50b9aec992f3e00c493c9a127'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0041_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 琳法師別傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0041_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7277
+  label: 唐護法沙門法琳別傳卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0041_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6328
+  label: 唐護法沙門法琳別傳卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0041_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7379
+  label: 唐護法沙門法琳別傳卷下
+  type: juan
+  level: 1
+hash: sha256:a7debce128f610f9622666336778c37f46898a47a26663934b4924d3b4744b53
