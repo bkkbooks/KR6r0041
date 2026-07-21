@@ -24,12 +24,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0041_000.yaml, hash: 'sha256:a74b0494f0bb0b3ad4f6a903869ebfbc5f637dc8c91024a445685b3a811680f0'}
+  - {seq: 0, filename: KR6r0041_000.yaml, hash: 'sha256:d83353ecca0a997009eb02dddf9d04ff79fe14b0015e87cbc6f508648d5ac738'}
   - {seq: 1, filename: KR6r0041_001.yaml, hash: 'sha256:bcd7586fbe55fe61fb9ebbeacaf7c90f73ca169e2d41f4ef5b6923c97dab36cf'}
   - {seq: 2, filename: KR6r0041_002.yaml, hash: 'sha256:9ed606e4221e97dd6268fe33400be2766633bc025e0106f2958c31db246c925f'}
   - {seq: 3, filename: KR6r0041_003.yaml, hash: 'sha256:3acf02c5150ee64187ffc073e8ee364e99c9b258550703dc383cc6ff4e8ae57e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0041_000.markers.yaml, hash: 'sha256:0bc26b095c55eb4fa8af79333daf8fcf9b64f9f30681de9566ac42f3d2817a4e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0041_000.markers.yaml, hash: 'sha256:6fadf8fca1c658e589688dc97713e7747debc09a8b2665835014e604798f5f06'}
   - {seq: 1, role: markers, filename: assets/KR6r0041_001.markers.yaml, hash: 'sha256:a2092b60f6b72e1edfcc12bde8b735aad71380f0ff9bc95af2e288f47be62ca1'}
   - {seq: 2, role: markers, filename: assets/KR6r0041_002.markers.yaml, hash: 'sha256:55237ef888abcd2d6b773db010ea3bedba6b3e5811df2d2c90a29bdc24eca235'}
   - {seq: 3, role: markers, filename: assets/KR6r0041_003.markers.yaml, hash: 'sha256:ae40c422db82f2dc11368cd5bad57db7778b60c0001d77b99e92472c397d12b8'}
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0041_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 琳法師別傳序
@@ -74,7 +74,7 @@ table_of_contents:
   label: 唐護法沙門法琳別傳卷下
   type: juan
   level: 1
-hash: sha256:646d51bf2111c6d5e63967e4019484baf00c7d96795590202ead76435a69145a
+hash: sha256:33879c23693fd67d20bc74580946e54a1e87628fc2529263d42eb01587cd4cf8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
